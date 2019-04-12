@@ -98,7 +98,7 @@ public class AnagramInString {
 	
 	
 	/*
-	 * Method to ordering and returning a String.
+	 * Method for ordering and returning a String.
 	 */
 	public static String sortString(String str) {
 		
@@ -114,7 +114,7 @@ public class AnagramInString {
 	
 	
 	/*
-	 * Method to find the anagram by comparing the
+	 * Method for finding the anagram by comparing the
 	 */
 	public static boolean findAnagram(String s1, String s2) {
 		
@@ -124,7 +124,7 @@ public class AnagramInString {
 	
 	
 	/*
-	 * Method to print the index when anagram is found 
+	 * Method for printing the index when anagram is found 
 	 */
 	public static void printWhenFound(int n) {
 		
